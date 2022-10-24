@@ -32,7 +32,7 @@ represent instance methods and class methods:
 For example, `Person#name` is an example of an instance method, that we can call
 on an instance of a class:
 
-```rb
+```rb'
 class Person
   def name
     @name
